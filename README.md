@@ -30,8 +30,8 @@ Please note: the content is very basic. You won’t find anything sophisticated 
 
 ---
 
-> 🗒️ **言語:** すべて日本語で書かれています  
-> 📘 **形式:** すべてMarkdown形式です
+> 🗒️ すべて日本語で書かれています  
+> 📘 すべてMarkdown形式です
 
 ---
 
